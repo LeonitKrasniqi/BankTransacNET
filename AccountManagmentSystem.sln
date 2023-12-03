@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountManagmentSystemAPI", "AccountManagmentSystemAPI\AccountManagmentSystemAPI.csproj", "{00EE3EFC-479F-456D-8659-5D8FCAE88452}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountManagmentSystemXUnit", "AccountManagmentSystemXUnit\AccountManagmentSystemXUnit.csproj", "{328BB965-C8BB-47FF-ADD2-848866E31906}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00EE3EFC-479F-456D-8659-5D8FCAE88452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00EE3EFC-479F-456D-8659-5D8FCAE88452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00EE3EFC-479F-456D-8659-5D8FCAE88452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00EE3EFC-479F-456D-8659-5D8FCAE88452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328BB965-C8BB-47FF-ADD2-848866E31906}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328BB965-C8BB-47FF-ADD2-848866E31906}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328BB965-C8BB-47FF-ADD2-848866E31906}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328BB965-C8BB-47FF-ADD2-848866E31906}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2673F9C-943A-4F2B-94B1-20D678245DE5}
+	EndGlobalSection
+EndGlobal
