@@ -33,3 +33,19 @@ The receiver's Account ID is valid and exists.
 The sender and receiver Account IDs are different.
 
 The sender is not attempting to transfer money to themselves.
+
+
+
+## Unit Testing
+
+This project includes unit tests implemented using Xunit and Moq frameworks. The tests cover various methods to ensure the reliability and correctness of the code. To run the tests, follow these steps:
+
+1. Open the solution in your preferred IDE.
+
+2. Locate the test project ("AccountManagmentSystemXUnit") in the solution explorer.
+
+3. Run the tests using the testing tools provided by your IDE.
+
+4. Review the test results to ensure all tests pass successfully.
+
+Feel free to extend the test coverage or add additional tests as needed for your specific use cases.
